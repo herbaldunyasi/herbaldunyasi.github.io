@@ -305,7 +305,7 @@ ol, ul {margin: 0; padding: 0; list-style: none;}
 .search_block .overlayer {
     background-color: #84b813;
     position: fixed;
-    cursor: url(../img/overlay-close.png), auto;
+    cursor: url(overlay-close.png), auto;
     top: 0;
     left: 0;
     height: 100%;
@@ -1096,7 +1096,7 @@ input, select, textarea {margin :0;}
             medical form
 ====================================== */
 
-.form-bg {    background: url("../img/table-img.jpg") no-repeat;
+.form-bg {    background: url("table-img.jpg") no-repeat;
     background-attachment: inherit;
     background-size: cover;
     background-position: top center;
@@ -1387,7 +1387,7 @@ input, select, textarea {margin :0;}
 /* ===================================
                Counters
 ====================================== */
-.bg-counter { background: url(../img/counter-img.jpg) no-repeat;
+.bg-counter { background: url(counter-img.jpg) no-repeat;
     background-attachment: fixed;
     -webkit-background-size: cover;
     background-size: cover;
@@ -1487,7 +1487,7 @@ margin-bottom: 20px;
              testimonial
 ======================================*/
 
-.bg-testimonial {background: url("../img/testimonial-img.jpg");
+.bg-testimonial {background: url("testimonial-img.jpg");
 }
 
 .testimonial-title h2 {
@@ -1634,7 +1634,7 @@ margin: 0 auto; max-width: 600px;}
 ====================================== */
 
 .blog-banner{
-    background: url("../img/blog-cover.jpg") no-repeat;
+    background: url("blog-cover.jpg") no-repeat;
     padding-top: 140px;
     padding-bottom: 140px;
     background-attachment: initial;
@@ -2331,7 +2331,7 @@ a:hover {
 ====================================== */
 
 .contact{
-    background: url("../img/map-img.jpg");
+    background: url("map-img.jpg");
 }
 #google-map {
     border: 10px solid #ffffff;
@@ -2344,7 +2344,7 @@ a:hover {
 }
 
 .map {
-    background: url(../img/map.jpg);
+    background: url(map.jpg);
 }
 
 .bg-overlay {position: absolute;
@@ -2687,7 +2687,7 @@ ul.count_down.white li p:nth-child(2) {
 }
 
 .counter-img2{
-    background: url("../img/restu-comingsoon.jpg");
+    background: url("restu-comingsoon.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
